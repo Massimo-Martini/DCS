@@ -1,0 +1,5 @@
+ATIS
+https://flightcontrol-master.github.io/MOOSE_DOCS/Documentation/Ops.Atis.html
+
+RESCUE HELO
+https://flightcontrol-master.github.io/MOOSE_DOCS/Documentation/Ops.RescueHelo.html
