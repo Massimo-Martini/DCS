@@ -6,3 +6,6 @@ https://flightcontrol-master.github.io/MOOSE_DOCS/Documentation/Ops.RescueHelo.h
 
 STATIC CARRIER TEMPLATE
 https://www.youtube.com/watch?v=XONOFbhwbsU&list=PLwEdJyer1aoaZCpWaWbSOVCDNPy2pXdtg&index=1&t=3s
+
+RAT - RANDOM AIR TRAFFIC
+https://flightcontrol-master.github.io/MOOSE_DOCS/Documentation/Functional.Rat.html
