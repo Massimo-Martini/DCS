@@ -34,7 +34,7 @@ A2ADispatcher_Blue:SetSquadronGci( "Kunsan", 900, 1200 )
 -- rifornimento
 --A2ADispatcher_Blue:SetSquadronFuelThreshold( "Bulldogs", 0.3 )
 --A2ADispatcher_Blue:SetSquadronTanker( "Bulldogs", "TexacoOne" )
-A2ADispatcher_Blue:SetDefaultFuelThreshold( 0.30 )
+A2ADispatcher_Blue:SetDefaultFuelThreshold( 0.3 )
 A2ADispatcher_Blue:SetDefaultTanker( "TexacoOne" )
 
 
@@ -73,5 +73,5 @@ A2ADispatcher_Red:SetSquadronCapInterval( "010thSquadron", 1, 60, 120, 1 )
 A2ADispatcher_Red:SetSquadronGci( "014thSquadron", 900, 1200 )
 
 -- rifornimento
-A2ADispatcher_Red:SetSquadronFuelThreshold( "010thSquadron", 0.2 )
-A2ADispatcher_Red:SetSquadronTanker( "010thSquadron", "RabelOne" )
+A2ADispatcher_Red:SetDefaultFuelThreshold( 0.3 )
+A2ADispatcher_Red:SetDefaultTanker( "RabelOne" )
