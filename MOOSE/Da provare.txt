@@ -1,0 +1,27 @@
+TROOP LOGISTICS DEPLOYMENT
+https://flightcontrol-master.github.io/MOOSE_DOCS/Documentation/Ops.CTLD.html
+
+
+USER SOUND
+https://flightcontrol-master.github.io/MOOSE_DOCS/Documentation/Sound.UserSound.htm
+
+
+CORE ZONES
+https://flightcontrol-master.github.io/MOOSE_DOCS/Documentation/Core.Zone.html 
+
+
+CORE RADIO
+https://flightcontrol-master.github.io/MOOSE_DOCS/Documentation/Sound.Radio.html
+https://flightcontrol-master.github.io/MOOSE_DOCS/Documentation/Sound.RadioSpeech.html
+
+
+SEAD REACTION
+https://flightcontrol-master.github.io/MOOSE_DOCS/Documentation/Functional.Sead.html
+
+
+ROUTINES
+https://flightcontrol-master.github.io/MOOSE_DOCS/Documentation/routines.html
+
+
+REPORT
+https://flightcontrol-master.github.io/MOOSE_DOCS/Documentation/Core.Report.html
