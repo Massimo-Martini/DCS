@@ -1,5 +1,5 @@
 DESCRIZIONE SCRIPT
-https://flightcontrol-master.github.io/MOOSE_DOCS/Documentation/Functional.Rat.html
+https://flightcontrol-master.github.io/MOOSE_DOCS/Documentation/Functional.RAT.html
 
 VIDEO
 1) https://www.youtube.com/watch?v=tKrMq_ngPP8&list=PL7ZUrU4zZUl0u4Zxywtg-mx_ov4vi68CO&index=2
