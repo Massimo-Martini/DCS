@@ -1,0 +1,9 @@
+apri il CMD ed esegui come amministratore
+
+cd C:\Program Files\Eagle Dynamics\DCS World OpenBeta\bin
+invio
+dcs_updater.exe update
+or
+dcs_updater.exe update VERSION_ID <version>
+or
+dcs_updater.exe repair
