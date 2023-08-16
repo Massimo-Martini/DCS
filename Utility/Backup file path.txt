@@ -1,0 +1,10 @@
+POSIZIONE DCS
+C:\Program Files\Eagle Dynamics\DCS World
+
+
+POSIZIONE FILE SALVATI
+C:\Users\Massimo\Saved Games\DCS
+
+
+POSIZIONE LOGBOOK
+C:\Users\Massimo\Saved Games\DCS\MissionEditor
