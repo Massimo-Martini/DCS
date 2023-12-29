@@ -1,0 +1,28 @@
+Command Center
+https://flightcontrol-master.github.io/MOOSE_DOCS/Documentation/Tasking.CommandCenter.html 
+https://github.com/FlightControl-Master/MOOSE/blob/master/Moose%20Development/Moose/Tasking/CommandCenter.lua 
+https://github.com/FlightControl-Master/MOOSE_MISSIONS/tree/master/TAD%20-%20Task%20Dispatching/A2G%20-%20Air%202%20Ground%20Task%20Dispatching/TAD-A2G-000%20-%20AREAS%20-%20Detection%20test 
+https://flightcontrol-master.github.io/MOOSE_DOCS/Documentation/Tasking.Task.html
+
+Detection manager
+https://flightcontrol-master.github.io/MOOSE_DOCS/Documentation/Tasking.DetectionManager.html 
+https://flightcontrol-master.github.io/MOOSE_DOCS/Documentation/Core.Zone_Detection.html 
+
+Mission Tasking
+https://flightcontrol-master.github.io/MOOSE_DOCS/Documentation/Tasking.Mission.html 
+
+Task
+https://flightcontrol-master.github.io/MOOSE_DOCS/Documentation/Tasking.Task.html 
+https://flightcontrol-master.github.io/MOOSE_DOCS/Documentation/Tasking.TaskInfo.html 
+
+A2G Tasking
+https://flightcontrol-master.github.io/MOOSE_DOCS/Documentation/Tasking.Task_A2G.html 
+https://flightcontrol-master.github.io/MOOSE_DOCS/Documentation/Tasking.Task_A2G_Dispatcher.html 
+https://www.youtube.com/watch?v=EMR51pA2VK4
+https://www.youtube.com/watch?v=ioiMbhJzwZ4&list=PL7ZUrU4zZUl3CgxN2iAViiGLTPpQ-Ajdg
+https://www.youtube.com/watch?v=eN1a_hw7yd4 
+
+A2A Tasking
+https://www.youtube.com/watch?v=s26x4565d-E 
+https://flightcontrol-master.github.io/MOOSE_DOCS/Documentation/Tasking.Task_A2A_Dispatcher.html 
+https://flightcontrol-master.github.io/MOOSE_DOCS/Documentation/Tasking.Task_A2A.html 
