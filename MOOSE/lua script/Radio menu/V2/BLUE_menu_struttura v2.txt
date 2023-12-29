@@ -1,0 +1,29 @@
+N.B: TR = training
+
+- Declare emergency
+- Recuest inress into no-fly zone
+- TR. A2A
+	- Escort
+	- CAP
+	- Intercept
+- TR. A2G
+	- Sead
+		- Easy
+		- Medium
+		- Hight
+	- Strike
+		- Zone 1
+		- Zone 2
+		- Zone 3
+		- Zone 4
+		- Zone 5
+	- Cas
+		- Air defense
+		- Infantery
+		- Mooving targets
+- TR. Support/Logistic
+- Mission
+	- Mission 01
+	- Mission 02
+	- Mission 03
+	- Mission 04
