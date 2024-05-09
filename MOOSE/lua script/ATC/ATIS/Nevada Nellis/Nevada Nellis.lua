@@ -1,5 +1,5 @@
 -- ATIS Nellis AFB on 270.10 MHz AM.
-atisNellis=ATIS:New(AIRBASE.Nevada.Nellis_AFB, 270.1)
+atisNellis=ATIS:New(AIRBASE.Nevada.Nellis, 270.1)
 atisNellis:SetRadioRelayUnitName("Radio Relay Nellis")
 atisNellis:SetActiveRunway("21L")
 atisNellis:SetTowerFrequencies({327.000, 132.550})
@@ -8,7 +8,7 @@ atisNellis:AddILS(109.1, "21")
 atisNellis:Start()
 
 -- ATIS Creech AFB on 290.45 MHz
-atisCreech=ATIS:New(AIRBASE.Nevada.Creech_AFB,  290.45)
+atisCreech=ATIS:New(AIRBASE.Nevada.Creech,  290.45)
 atisCreech:SetRadioRelayUnitName("Radio Relay Creech")
 atisCreech:SetTowerFrequencies({360.6, 118.3})
 atisCreech:AddILS(108.7, "08")
