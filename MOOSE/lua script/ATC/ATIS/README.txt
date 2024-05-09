@@ -1,5 +1,5 @@
-https://flightcontrol-master.github.io/MOOSE_DOCS/Documentation/Ops.Atis.html
-https://github.com/FlightControl-Master/MOOSE_MISSIONS/tree/develop/OPS%20-%20ATIS/ATIS%20-%20100%20-%20Caucasus%20Batumi
+https://flightcontrol-master.github.io/MOOSE_DOCS/Documentation/Ops.ATIS.html
+https://github.com/FlightControl-Master/MOOSE_MISSIONS/tree/develop/Ops/ATIS
 
 NOTE
 Il file miz della missione va rinominato in .zip, aprilo e all'interno copia la cartella soundfile.
