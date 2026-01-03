@@ -9,7 +9,7 @@
 -------------------------------------------------------------------------
 
 -- Kutaisi (con note) --
-local WingKutaisi = EASYGCICAP:New("Kutaisi Operations",AIRBASE.Caucasus.Kutaisi,"blue","DAMI_EWR #Kutaisi")
+local WingKutaisi = EASYGCICAP:New("Kutaisi AirWings",AIRBASE.Caucasus.Kutaisi,"blue","Blue EWR #Kutaisi")
 WingKutaisi:SetDefaultCAPSpeed(350)
 WingKutaisi:SetDefaultCAPDirection(270)
 WingKutaisi:SetDefaultMissionRange(200)
@@ -27,7 +27,7 @@ WingKutaisi:AddConflictZone(ZONE_POLYGON:New("Red Defense Zone 1", GROUP:FindByN
 WingKutaisi:AddRejectZone(ZONE_POLYGON:New( "Red Border", GROUP:FindByName( "Red Border" ) ))
 
 -- Vaziani --
-local WingVaziani = EASYGCICAP:New("Vaziani Operations",AIRBASE.Caucasus.Vaziani,"blue","DAMI_EWR #Vaziani")
+local WingVaziani = EASYGCICAP:New("Vaziani AirWings",AIRBASE.Caucasus.Vaziani,"blue","Blue EWR #Vaziani")
 WingVaziani:SetDefaultCAPSpeed(350)
 WingVaziani:SetDefaultCAPDirection(360)
 WingVaziani:SetDefaultMissionRange(200)
@@ -40,7 +40,7 @@ WingVaziani:AddConflictZone(ZONE_POLYGON:New("Red Defense Zone 2", GROUP:FindByN
 WingVaziani:AddRejectZone(ZONE_POLYGON:New( "Red Border", GROUP:FindByName( "Red Border" ) ))
 
 -- Kobuleti --
-local WingKobuleti = EASYGCICAP:New("Kobuleti Operations",AIRBASE.Caucasus.Kobuleti,"blue","DAMI_EWR #Kobuleti")
+local WingKobuleti = EASYGCICAP:New("Kobuleti AirWings",AIRBASE.Caucasus.Kobuleti,"blue","Blue EWR #Kobuleti")
 WingKobuleti:SetDefaultCAPSpeed(350)
 WingKobuleti:SetDefaultCAPDirection(360)
 WingKobuleti:SetDefaultMissionRange(200)
@@ -52,7 +52,7 @@ WingKobuleti:AddConflictZone(ZONE_POLYGON:New("Red Defense Zone 1", GROUP:FindBy
 WingKobuleti:AddRejectZone(ZONE_POLYGON:New( "Red Border", GROUP:FindByName( "Red Border" ) ))
 
 -- Senaki-Kolkhi --
-local EliSenaki = EASYGCICAP:New("Senaki Operations",AIRBASE.Caucasus.Senaki_Kolkhi,"blue","DAMI_EWR #Senaki")
+local EliSenaki = EASYGCICAP:New("Senaki AirWings",AIRBASE.Caucasus.Senaki_Kolkhi,"blue","Blue EWR #Senaki")
 EliSenaki:SetDefaultCAPSpeed(100)
 EliSenaki:SetDefaultCAPDirection(360)
 EliSenaki:SetDefaultMissionRange(150)
@@ -70,7 +70,7 @@ EliSenaki:AddRejectZone(ZONE_POLYGON:New( "Red Border", GROUP:FindByName( "Red B
 -------------------------------------------------------------------------
 
 -- Mozdok --
-local WingMozdok = EASYGCICAP:New("Mozdok Operations",AIRBASE.Caucasus.Mozdok,"red","AirDome_EWR #Mozdok")
+local WingMozdok = EASYGCICAP:New("Mozdok AirWings",AIRBASE.Caucasus.Mozdok,"red","Red EWR #Mozdok")
 WingMozdok:SetDefaultCAPSpeed(350)
 WingMozdok:SetDefaultCAPDirection(180)
 WingMozdok:SetDefaultMissionRange(200)
@@ -82,7 +82,7 @@ WingMozdok:AddAcceptZone(ZONE_POLYGON:New( "Red Border", GROUP:FindByName( "Red 
 WingMozdok:AddRejectZone(ZONE_POLYGON:New( "Blue Border", GROUP:FindByName( "Blue Border" ) ))
 
 -- Maykop-Khanskaya --
-local WingMaykop = EASYGCICAP:New("Maykop Operations",AIRBASE.Caucasus.Maykop_Khanskaya,"red","AirDome_EWR #Maykop")
+local WingMaykop = EASYGCICAP:New("Maykop AirWings",AIRBASE.Caucasus.Maykop_Khanskaya,"red","Red EWR #Maykop")
 WingMaykop:SetDefaultCAPSpeed(350)
 WingMaykop:SetDefaultCAPDirection(135)
 WingMaykop:SetDefaultMissionRange(200)
@@ -94,7 +94,7 @@ WingMaykop:AddAcceptZone(ZONE_POLYGON:New( "Red Border", GROUP:FindByName( "Red 
 WingMaykop:AddRejectZone(ZONE_POLYGON:New( "Blue Border", GROUP:FindByName( "Blue Border" ) ))
 
 -- Krasnodar-Center --
-local WingKrasnodar = EASYGCICAP:New("Krasnodar Operations",AIRBASE.Caucasus.Krasnodar_Center,"red","AirDome_EWR #Krasnodar")
+local WingKrasnodar = EASYGCICAP:New("Krasnodar AirWings",AIRBASE.Caucasus.Krasnodar_Center,"red","Red EWR #Krasnodar")
 WingKrasnodar:SetDefaultCAPSpeed(350)
 WingKrasnodar:SetDefaultCAPDirection(225)
 WingKrasnodar:SetDefaultMissionRange(200)
